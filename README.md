@@ -2,4 +2,4 @@
 
 - 📫 If you would like to contact me about oportunities I can be reached at msana@email.sc.edu
 
-
+- I am currently working on my github io website at https://michaelsana.github.io I am currently updating it daily

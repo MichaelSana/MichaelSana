@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @MichaelSana I am a Senior Computer Science student with a minor in Mathematics at the University Of South Carolina. I am also currently a Software Engineer II intern at Walmart Global Tech.
+- 👋 Hi, I’m @MichaelSana full time TRACK Software Engineer at General Motors. I am also a part-time student at the Georgia Institute of Technology where I am studying my masters in computer science with a specilization in Interactive Intelligence.
 
-- 📫 If you would like to contact me about oportunities I can be reached at msana@email.sc.edu
-
-- I am currently working on my github io website at https://michaelsana.github.io I am currently updating it daily
+- 📫 If you would like to contact me about oportunities I can be reached at michaelsana2001@gmail.com
